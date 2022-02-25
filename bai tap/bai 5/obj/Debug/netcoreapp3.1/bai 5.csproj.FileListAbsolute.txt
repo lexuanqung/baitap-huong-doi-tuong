@@ -1,0 +1,16 @@
+D:\bai tap mon huong đối tượng\bai tap\bai 5\bin\Debug\netcoreapp3.1\bai 5.exe
+D:\bai tap mon huong đối tượng\bai tap\bai 5\bin\Debug\netcoreapp3.1\bai 5.deps.json
+D:\bai tap mon huong đối tượng\bai tap\bai 5\bin\Debug\netcoreapp3.1\bai 5.runtimeconfig.json
+D:\bai tap mon huong đối tượng\bai tap\bai 5\bin\Debug\netcoreapp3.1\bai 5.runtimeconfig.dev.json
+D:\bai tap mon huong đối tượng\bai tap\bai 5\bin\Debug\netcoreapp3.1\bai 5.dll
+D:\bai tap mon huong đối tượng\bai tap\bai 5\bin\Debug\netcoreapp3.1\bai 5.pdb
+D:\bai tap mon huong đối tượng\bai tap\bai 5\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\bai tap mon huong đối tượng\bai tap\bai 5\obj\Debug\netcoreapp3.1\bai 5.csproj.AssemblyReference.cache
+D:\bai tap mon huong đối tượng\bai tap\bai 5\obj\Debug\netcoreapp3.1\bai 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai tap mon huong đối tượng\bai tap\bai 5\obj\Debug\netcoreapp3.1\bai 5.AssemblyInfoInputs.cache
+D:\bai tap mon huong đối tượng\bai tap\bai 5\obj\Debug\netcoreapp3.1\bai 5.AssemblyInfo.cs
+D:\bai tap mon huong đối tượng\bai tap\bai 5\obj\Debug\netcoreapp3.1\bai 5.csproj.CoreCompileInputs.cache
+D:\bai tap mon huong đối tượng\bai tap\bai 5\obj\Debug\netcoreapp3.1\bai 5.csproj.CopyComplete
+D:\bai tap mon huong đối tượng\bai tap\bai 5\obj\Debug\netcoreapp3.1\bai 5.dll
+D:\bai tap mon huong đối tượng\bai tap\bai 5\obj\Debug\netcoreapp3.1\bai 5.pdb
+D:\bai tap mon huong đối tượng\bai tap\bai 5\obj\Debug\netcoreapp3.1\bai 5.genruntimeconfig.cache

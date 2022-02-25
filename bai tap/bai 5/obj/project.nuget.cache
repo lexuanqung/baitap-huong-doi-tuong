@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdhiFv71C7SaiIMe4ZtF6tOPzeaCSRin2/IOJ8EurQAAq8fk9+ihWSG2xOwLf20kDVLdd3TT5LFw01rFYZc/zQ==",
+  "success": true,
+  "projectFilePath": "D:\\bai tap mon huong đối tượng\\bai tap\\bai 5\\bai 5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS TUF\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS TUF\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS TUF\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}

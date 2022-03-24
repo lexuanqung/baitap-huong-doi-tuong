@@ -1,0 +1,14 @@
+D:\bai tap mon huong đối tượng\bai tap\bai 6\bin\Debug\netcoreapp3.1\bai 6.exe
+D:\bai tap mon huong đối tượng\bai tap\bai 6\bin\Debug\netcoreapp3.1\bai 6.deps.json
+D:\bai tap mon huong đối tượng\bai tap\bai 6\bin\Debug\netcoreapp3.1\bai 6.runtimeconfig.json
+D:\bai tap mon huong đối tượng\bai tap\bai 6\bin\Debug\netcoreapp3.1\bai 6.runtimeconfig.dev.json
+D:\bai tap mon huong đối tượng\bai tap\bai 6\bin\Debug\netcoreapp3.1\bai 6.dll
+D:\bai tap mon huong đối tượng\bai tap\bai 6\bin\Debug\netcoreapp3.1\bai 6.pdb
+D:\bai tap mon huong đối tượng\bai tap\bai 6\obj\Debug\netcoreapp3.1\bai 6.csproj.AssemblyReference.cache
+D:\bai tap mon huong đối tượng\bai tap\bai 6\obj\Debug\netcoreapp3.1\bai 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai tap mon huong đối tượng\bai tap\bai 6\obj\Debug\netcoreapp3.1\bai 6.AssemblyInfoInputs.cache
+D:\bai tap mon huong đối tượng\bai tap\bai 6\obj\Debug\netcoreapp3.1\bai 6.AssemblyInfo.cs
+D:\bai tap mon huong đối tượng\bai tap\bai 6\obj\Debug\netcoreapp3.1\bai 6.csproj.CoreCompileInputs.cache
+D:\bai tap mon huong đối tượng\bai tap\bai 6\obj\Debug\netcoreapp3.1\bai 6.dll
+D:\bai tap mon huong đối tượng\bai tap\bai 6\obj\Debug\netcoreapp3.1\bai 6.pdb
+D:\bai tap mon huong đối tượng\bai tap\bai 6\obj\Debug\netcoreapp3.1\bai 6.genruntimeconfig.cache
